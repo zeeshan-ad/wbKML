@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>West Bengal</name>
+    <description/>
+    <NetworkLink>
+      <name>West Bengal</name>
+      <Link>
+        <href>https://www.google.com/maps/d/kml?mid=1h3ZPVpJ736OXVGTqSppfqyA25B3zVEKC</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
